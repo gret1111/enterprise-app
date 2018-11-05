@@ -1,0 +1,13 @@
+﻿{
+  "Logging": {
+    "IncludeScopes": false,
+    "LogLevel": {
+      "Default": "Warning"
+    }
+  },
+
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=tcp:localhost,1433;Initial Catalog=Keystone_Development;Persist Security Info=False;User ID=root;Password=root;"
+  }
+
+}

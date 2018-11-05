@@ -1,0 +1,11 @@
+C:\Users\Gret\Desktop\1-2018\Enterprise App\Project1\Dotnet\Test\Test\bin\Debug\netcoreapp2.0\Test.deps.json
+C:\Users\Gret\Desktop\1-2018\Enterprise App\Project1\Dotnet\Test\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.json
+C:\Users\Gret\Desktop\1-2018\Enterprise App\Project1\Dotnet\Test\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.dev.json
+C:\Users\Gret\Desktop\1-2018\Enterprise App\Project1\Dotnet\Test\Test\bin\Debug\netcoreapp2.0\Test.dll
+C:\Users\Gret\Desktop\1-2018\Enterprise App\Project1\Dotnet\Test\Test\bin\Debug\netcoreapp2.0\Test.pdb
+C:\Users\Gret\Desktop\1-2018\Enterprise App\Project1\Dotnet\Test\Test\obj\Debug\netcoreapp2.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\Gret\Desktop\1-2018\Enterprise App\Project1\Dotnet\Test\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfoInputs.cache
+C:\Users\Gret\Desktop\1-2018\Enterprise App\Project1\Dotnet\Test\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfo.cs
+C:\Users\Gret\Desktop\1-2018\Enterprise App\Project1\Dotnet\Test\Test\obj\Debug\netcoreapp2.0\Test.dll
+C:\Users\Gret\Desktop\1-2018\Enterprise App\Project1\Dotnet\Test\Test\obj\Debug\netcoreapp2.0\Test.pdb
+C:\Users\Gret\Desktop\1-2018\Enterprise App\Project1\Dotnet\Test\Test\obj\Debug\netcoreapp2.0\Test.csprojAssemblyReference.cache

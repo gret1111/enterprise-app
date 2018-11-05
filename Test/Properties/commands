@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold "Server=192.168.99.102;User Id=root;Password=root;Database=affablebean" "Pomelo.EntityFrameworkCore.MySql" -c MyDbContext
